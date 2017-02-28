@@ -10,7 +10,8 @@ In the last two assigned readings focused exclusively on the life of the podcast
 2. But one by one, Microsoft moved into each sector and built one of the competitors into Word, thereby killing the competition and stifling innovation. Microsoft killed the outline processor on Windows; stalled development of the grammar checking tool, stifled spelling checkers. There is an entire graveyard of once-hopeful new software ecosystems, and its name is Microsoft Word.
 3. “In my work, I move in two professional environments: academic writing and technical writing. Markdown works as a plain text authoring tool for both of those environments and minimizes the need for complex applications or additional tags or markup. It bridges the processes of writing, say, on email or forums, and on web editors,”
 4. Podcasting’s present and future, particularly its business models, are relevant to digital journalism for two major reasons. First, podcasting is a medium that lends itself to mobile consumption, and thus provides a means for reaching audiences in ways other media cannot. Second, podcasting offers a level of engagement with audiences that is incomparable with other digital media; it thus presents a remarkable opportunity for journalistic outlets to cultivate audience relationships and experiment with new forms of revenue generation
-###Questions/Comments
+
+###Questions and Comments
 1. Why does podcasting rely so heavily on advertisemments?
 2. This was _such_ an interesting reading assignment! I never knew there were so many writing software options before Microsoft Word!
 3. do you use Microsoft Word regularly or do you use annother type of software?
